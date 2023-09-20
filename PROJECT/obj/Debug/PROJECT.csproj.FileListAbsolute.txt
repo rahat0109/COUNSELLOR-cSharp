@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\User\source\repos\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\User\source\repos\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form2.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form3.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form4.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form5.resources
+C:\Users\User\source\repos\PROJECT\obj\Debug\PROJECT.Form6.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.csproj.AssemblyReference.cache
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form1.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form2.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form4.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form6.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form7.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.LOGIN.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form11.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form12.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.INTRO.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form3.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form5.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.csproj.CoreCompileInputs.cache
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.exe
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.pdb
+D:\6th sem\oop2\final project\PROJECT\bin\Debug\PROJECT.exe.config
+D:\6th sem\oop2\final project\PROJECT\bin\Debug\PROJECT.exe
+D:\6th sem\oop2\final project\PROJECT\bin\Debug\PROJECT.pdb
+D:\6th sem\oop2\final project\PROJECT\obj\Debug\PROJECT.Form60.resources
